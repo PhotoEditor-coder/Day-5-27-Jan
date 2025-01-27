@@ -7,48 +7,51 @@ img {
   justify-content: center;
 }
 
+
+
 #mouth2 {
   position: absolute;
 left: 200;
-top:450;
+top:500;
 width: 200;
 }
 
 
-#ears {
+#ears1 {
   position: absolute;
- left: 20px;
+ left: 02px;
  top: 50px;
- width: 78px;
+ width: 600px;
   
 }
 
 #eyes1 {
 position: absolute;
-left: 180;
-top: 250;
+left: 165;
+top: 300;
 width: 300;
 }
 
-#hair {
+#hair1 {
   position: absolute;
-left: 90;
-top:90;
-width: 90;
+left: 106;
+top:80;
+width: 400;
 }
 
 #hat {
   position: absolute;
 left: 110;
-top:-12;
+top:-30;
 width: 400;
 }
 
-
 #nose1 {
   position: absolute;
-left: 180;
-top:90;
-width: 90;
+left: 265;
+top:400;
+width: 80;
 }
+
+
 
